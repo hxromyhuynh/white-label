@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73fbb0e1.css",
+    "main.js": "/static/js/main.14975d04.js",
+    "static/media/demo_bg.png": "/static/media/demo_bg.0cd211140af98c9ed38f.png",
+    "static/media/iPhone X-5.png": "/static/media/iPhone X-5.f59145acf73b3ea6df4b.png",
+    "static/media/iPhone X-1.png": "/static/media/iPhone X-1.682864d615d750dabfe1.png",
+    "static/media/iPhone X-2.png": "/static/media/iPhone X-2.61d794bbd197f966eb72.png",
+    "static/media/iPhone X-4.png": "/static/media/iPhone X-4.5164b0bd9ffd77fbbe26.png",
+    "static/media/iPhone X-3.png": "/static/media/iPhone X-3.c25a7fd1770af6c0a4b2.png",
+    "static/media/logo-upordown_demo.png": "/static/media/logo-upordown_demo.bfa17fdab23eb92691a0.png",
+    "static/media/live-bg-bottom.svg": "/static/media/live-bg-bottom.a843f2b1f57690cfa39b.svg",
+    "static/media/card-bottom.svg": "/static/media/card-bottom.54f22341cb422dcec302.svg",
+    "static/media/bellow-icon.svg": "/static/media/bellow-icon.c3c0edf261025ef87897753121891534.svg",
+    "static/media/money-icon.svg": "/static/media/money-icon.af401ef579546ee9c5a4d27f7939517d.svg",
+    "static/media/central-rect.svg": "/static/media/central-rect.f12f3d1d8de506897ae8.svg",
+    "static/media/bitcoin-icon.svg": "/static/media/bitcoin-icon.95ed6898b421bcc3a8434d090fab452c.svg",
+    "static/media/demo-menu-open.svg": "/static/media/demo-menu-open.d45fdb8084e5500b62710f21a2c2fad5.svg",
+    "index.html": "/index.html",
+    "static/media/demo-menu-close.svg": "/static/media/demo-menu-close.b95d3b0ef9e9504c54abb7d99edaebc1.svg",
+    "static/media/color01.svg": "/static/media/color01.66b88fcd9aea4f618fe1480b01ada1b1.svg",
+    "static/media/color02.svg": "/static/media/color02.d92bfd0bdecb843586c21fa8b28c5b1e.svg",
+    "static/media/color03.svg": "/static/media/color03.81b9f5ad1f2b8e4de5b49744f98fd9c7.svg",
+    "static/media/color04.svg": "/static/media/color04.3e0efeff2d7aa64126cbbc21130ef753.svg",
+    "static/media/color05.svg": "/static/media/color05.5150176371403b19defc4c139885ec6a.svg",
+    "static/media/demo-home.svg": "/static/media/demo-home.6754aedc349c902871fe6131949553ee.svg",
+    "static/media/demo-resolution.svg": "/static/media/demo-resolution.76e0ceb75d390efe2e4823aaa315ae4a.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.a74d968e96e411674c92ccad00316689.svg",
+    "static/media/live-bg-top.svg": "/static/media/live-bg-top.b3c21e8a4d1d0e7aeb71.svg",
+    "static/media/card-top.svg": "/static/media/card-top.b8a9fac9cd2c92bf85f1.svg",
+    "static/media/live-ellipse.svg": "/static/media/live-ellipse.1cd55afba65d9c66260fb277b1b404f1.svg",
+    "main.73fbb0e1.css.map": "/static/css/main.73fbb0e1.css.map",
+    "main.14975d04.js.map": "/static/js/main.14975d04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73fbb0e1.css",
+    "static/js/main.14975d04.js"
+  ]
+}

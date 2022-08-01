@@ -1,0 +1,37 @@
+<svg width="80" height="60" viewBox="0 0 80 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M31.8154 38V29.5294H37.7231V38H45.1077V26.7059H49.5385L34.7692 14L20 26.7059H24.4308V38H31.8154Z" fill="#3C3C52"/>
+<path d="M22.0377 17H49.2076V14H19.0189V33.5H16V38H37.1321V33.5H22.0377V17ZM52.2264 20H40.1509V38H52.2264V20ZM49.2076 33.5H43.1698V23H49.2076V33.5Z" fill="#3C3C52"/>
+<g style="mix-blend-mode:screen">
+<circle cx="24" cy="30" r="24" fill="#FD9471"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="56" cy="30" r="24" fill="#FEE4BD"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="24" cy="30" r="24" fill="#FFD4D4"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="56" cy="30" r="24" fill="#DAD4FF"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="24" cy="30" r="24" fill="#F477FF"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="56" cy="30" r="24" fill="#02FFFF"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="24" cy="30" r="24" fill="#F0E323"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="56" cy="30" r="24" fill="#AE6AFF"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="24" cy="30" r="24" fill="#FF00CA"/>
+</g>
+<g style="mix-blend-mode:screen">
+<circle cx="56" cy="30" r="24" fill="#00FF00"/>
+</g>
+<rect width="80" height="60" fill="#141C29"/>
+<rect y="8" width="80" height="13" fill="white"/>
+<rect y="39" width="80" height="13" fill="white"/>
+</svg>
