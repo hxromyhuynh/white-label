@@ -1,6 +1,5 @@
 {
-  "config": {
-    "--background-color" : "#1E1E1E",
+  "--background-color" : "#1E1E1E",
     "--primary-color" : "#F0E323",
     "--secondary-color" : "#AE6AFF",
     "--primar-font-color" : "#F1F1F1",
@@ -29,5 +28,4 @@
     "--circle-counter-background-color" : "#141C29",
     "--circle-counter-color" : "#F1F1F1",
     "--desktop-header-background-color" : "#2B2B2B"
-  }
 }
