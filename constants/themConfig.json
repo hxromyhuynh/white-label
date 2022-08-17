@@ -1,0 +1,33 @@
+{
+  "config": {
+    "--background-color" : "#1E1E1E",
+    "--primary-color" : "#F0E323",
+    "--secondary-color" : "#AE6AFF",
+    "--primar-font-color" : "#F1F1F1",
+    "--pool-size-background" : "#0f1724",
+    "--secondary-font-color" : "#969696",
+    "--buttons-font-color" : "#050503",
+    "--pool-font-color" : "#F1F1F1",
+    "--card-header-font-color" : "#050503",
+    "--card-font-color" : "#050503",
+    "--card-buttons-font-color" : "#050503",
+    "--live-round-background" : "#2B2B2B",
+    "--live-price-font-color" : "#050503",
+    "--live-price-header-font-color" : "#F1F1F1",
+    "--live-price-locked-font-color" : "#7c7b73",
+    "--bet-button-modal-font-color" : "#F1F1F1",
+    "--bet-modal-background" : "#1E1E1E",
+    "--bet-button-border-color" : "#F1F1F1",
+    "--bet-button-background-color" : "#1E1E1E",
+    "--bet-modal-font-color" : "#F1F1F1",
+    "--bet-modal-button-background" : "#2B2B2B",
+    "--bet-modal-button-background-selected" : "#F1F1F1",
+    "--bet-modal-button-font" : "#F1F1F1",
+    "--bet-modal-button-font-selected" : "#29303F",
+    "--win-color" : "#F0E323",
+    "--lose-color" : "#AE6AFF",
+    "--circle-counter-background-color" : "#141C29",
+    "--circle-counter-color" : "#F1F1F1",
+    "--desktop-header-background-color" : "#2B2B2B"
+  }
+}
