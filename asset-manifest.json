@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.73fbb0e1.css",
-    "main.js": "/static/js/main.6de8df27.js",
+    "main.js": "/static/js/main.5f77ced4.js",
     "static/media/demo_bg.png": "/static/media/demo_bg.0cd211140af98c9ed38f.png",
     "static/media/iPhone X-5.png": "/static/media/iPhone X-5.f59145acf73b3ea6df4b.png",
     "static/media/iPhone X-1.png": "/static/media/iPhone X-1.682864d615d750dabfe1.png",
@@ -30,10 +30,10 @@
     "static/media/card-top.svg": "/static/media/card-top.b8a9fac9cd2c92bf85f1.svg",
     "static/media/live-ellipse.svg": "/static/media/live-ellipse.1cd55afba65d9c66260fb277b1b404f1.svg",
     "main.73fbb0e1.css.map": "/static/css/main.73fbb0e1.css.map",
-    "main.6de8df27.js.map": "/static/js/main.6de8df27.js.map"
+    "main.5f77ced4.js.map": "/static/js/main.5f77ced4.js.map"
   },
   "entrypoints": [
     "static/css/main.73fbb0e1.css",
-    "static/js/main.6de8df27.js"
+    "static/js/main.5f77ced4.js"
   ]
 }
